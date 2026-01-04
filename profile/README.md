@@ -4,7 +4,7 @@ A comprehensive auction platform built with Spring Boot that conducts weekly bat
 ---
 
 **Last Updated**: January 2026 
-**working**: Phase2 Of Monolithic Demo
+**Working On**: Phase2 Of Monolithic Demo
 
 ## 🎯 Project Overview
 
