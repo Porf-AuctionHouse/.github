@@ -1,6 +1,10 @@
 # Auction House - Weekly Batch Auction System
 
 A comprehensive auction platform built with Spring Boot that conducts weekly batch auctions with a structured workflow for item submission, admin review, and live bidding.
+---
+
+**Last Updated**: January 2026 
+**working**: Phase2 Of Monolithic Demo
 
 ## 🎯 Project Overview
 
