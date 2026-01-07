@@ -4,7 +4,7 @@ A comprehensive auction platform built with Spring Boot that conducts weekly bat
 ---
 
 **Last Updated**: January 2026 
-**Working On**: Phase2 Of Monolithic Demo
+**Working On**: Phase 3 Of Monolithic Demo
 
 ## 🎯 Project Overview
 
@@ -389,8 +389,8 @@ mvn jacoco:report
 - [x] Basic bidding service
 
 ### 🔄 Phase 3: API & Automation (Week 3)
-- [ ] REST controllers
-- [ ] JWT authentication
+- [x] REST controllers
+- [x] JWT authentication
 - [ ] Automated scheduler for batch transitions
 - [ ] Concurrent bidding with locking
 - [ ] WebSocket for real-time updates
