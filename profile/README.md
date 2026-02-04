@@ -3,7 +3,7 @@
 A comprehensive auction platform built with Spring Boot that conducts weekly batch auctions with a structured workflow for item submission, admin review, and live bidding.
 ---
 
-**Last Updated**: January 2026 
+**Last Updated**: Feb 2026 
 **Working On**: Phase 4 Of Monolithic Demo
 
 ## 🎯 Project Overview
@@ -396,8 +396,8 @@ mvn jacoco:report
 - [x] WebSocket for real-time updates
 
 ### ⏳ Phase 4: Enhanced Features (Week 4)
-- [ ] Email notifications
-- [ ] File upload for images
+- [x] Email notifications
+- [x] File upload for images
 - [ ] Search and filters
 - [ ] Watchlist functionality
 - [ ] Admin dashboard
